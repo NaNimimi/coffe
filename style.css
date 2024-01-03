@@ -1,0 +1,500 @@
+body {
+    background: black;
+    font-family: sans-serif;
+    width: 1600px;
+    margin: 0 auto;
+  }
+  
+ 
+
+.p1{
+    height: 80px;
+    
+}
+.p1-2{
+    color: #ffffff;
+    margin-right: 1100px;
+}
+.p1-2 a {
+    color: white;
+    text-decoration: none;
+}
+.p1-2 p{
+    margin-top: -19px;
+    margin-left: 80px;
+    color: #C7A17A;
+}
+.p1-2 h4{
+    color: white;
+    margin-left: 1160px;
+    margin-top: -35px;
+}
+.p1-3{
+    margin-top: -10px;
+    border: 1px solid #32323D;
+}
+.p1-4 a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    
+   
+}
+.p1-4{
+    margin-right: 800px;
+    word-spacing: 20px;
+    margin-top: 30px;
+}
+.p1-5{
+    margin-top: -40px;
+}
+.p1-6{
+    margin-left: 760px;
+    word-spacing: 20px;
+    margin-top: -40px;
+}
+.p1-7{
+    border: 1px solid #32323D ;
+    margin-top: 40px;
+}
+.p2{
+    height: 800px;
+    color: white;
+
+}
+.p2 img {
+    margin-top: 60px;
+    height: 750px;
+}
+.p2-1 {
+    font-size: 40px;
+    width: 600px;
+    margin-top: -600px;
+    margin-right: 620px;
+}
+.p2-1 p{
+    margin-top: -20px;
+    margin-right: 120px;
+}
+.p2-2{
+    margin-top: -70px;
+    margin-left: 60px;
+    width: 600px;
+}
+/* ------------------------------------------------ */
+.button {
+    --bg: #000;
+    --hover-bg: #ff90e8;
+    --hover-text: #000;
+    color: #fff;
+    border: 1px solid white ;
+    border-radius: 12px;
+    padding: 0.8em 2em;
+    background: transparent;
+    transition: 0.5s;
+    width: 230px;
+    height: 60px;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-right: 850px;
+  }
+  
+  .button:hover {
+    color: var(--hover-text);
+    transform: translate(-0.25rem,-0.25rem);
+    background: #C7A17A;
+    box-shadow: 0.55rem 0.55rem rgb(87, 86, 86);
+ 
+    
+  }
+  
+  .button:active {
+    transform: translate(0);
+    box-shadow: none;
+  }
+.p2-5{
+    margin-left: 500px;
+    margin-top: -100px;
+}
+.p1-4 .ss{
+    color:#C7A17A ;
+}
+.p1-4 a:hover{
+    color:#C7A17A ;
+}
+.p3{
+    height: 1000px;
+}
+.p3 img{
+    margin-top: 80px;
+    margin-right: 430px;
+}
+.p3-1{
+    width: 700px;
+    height: 330px;
+    background: #14141D;
+    margin-left: 687px;
+    margin-top: -360px;
+    color: white;
+    font-size: 22px;
+}
+ 
+.d {
+    width: 580px;
+}
+.d h2{
+    margin-right: 240px;
+}
+.p4-1 {
+    color: white;
+    margin-top: -500px;
+    margin-right: 900px;
+}
+.p4-2{
+    background:#14141D ;
+    width: 350px;
+    height: 350px;
+    margin-right: 710px;
+    margin-top: 30px;
+    color: white;
+    transition: 0.3s;
+}
+.p4-2 img{
+    margin-top: 20px;
+
+}
+.p4-2 h2{
+    margin-right: 90px;
+    margin-top: 40px;
+}
+.p4-2:hover{
+    background: #22222F;
+    transition: 0.3s;
+}
+.p4-2 h3{
+    margin-right: 270px;
+}
+.as{
+    color:#818181 ;
+    text-decoration: line-through ;
+    width: 60px;
+   
+   
+    margin-top: -40px;
+    margin-left: 80px;
+}
+.p4-3{
+    margin-top: -60px;
+    margin-right: -300px;
+}
+/*----------------------------------------------------------*/
+.p4-4{
+    background:#14141D ;
+    width: 350px;
+    height: 350px;
+    margin-left: 60px;
+    margin-top: -350px;
+    color: white;
+    transition: 0.3s;
+}
+.p4-4 img{
+    margin-top: 20px;
+
+}
+.p4-4 h2{
+    margin-right: 90px;
+    margin-top: 40px;
+}
+.p4-4:hover{
+    background: #22222F;
+    transition: 0.3s;
+}
+.p4-4 h3{
+    margin-right: 270px;
+}
+.as{
+    color:#818181 ;
+    text-decoration: line-through ;
+    width: 60px;
+   
+   
+    margin-top: -40px;
+    margin-left: 80px;
+}
+.p4-3{
+    margin-top: -60px;
+    margin-right: -300px;
+}
+/*----------------------------------------------------------*/
+.p4-6{
+    background:#14141D ;
+    width: 350px;
+    height: 350px;
+    margin-left: 810px;
+    margin-top: -350px;
+    color: white;
+    transition: 0.3s;
+}
+.p4-6 img{
+    margin-top: 20px;
+
+}
+.p4-6 h2{
+    margin-right: 90px;
+    margin-top: 40px;
+}
+.p4-6:hover{
+    background: #22222F;
+    transition: 0.3s;
+}
+.p4-6 h3{
+    margin-right: 270px;
+}
+.as{
+    color:#818181 ;
+    text-decoration: line-through ;
+    width: 60px;
+   
+   
+    margin-top: -40px;
+    margin-left: 80px;
+}
+.p4-3{
+    margin-top: -60px;
+    margin-right: -300px;
+}
+/*----------------------------------------------------------*/
+.p4-7{
+    background:#14141D ;
+    width: 350px;
+    height: 350px;
+    margin-right: 710px;
+    margin-top: 30px;
+    color: white;
+    transition: 0.3s;
+}
+.p4-7 img{
+    margin-top: 20px;
+
+}
+.p4-7 h2{
+    margin-right: 90px;
+    margin-top: 40px;
+}
+.p4-7:hover{
+    background: #22222F;
+    transition: 0.3s;
+}
+.p4-7 h3{
+    margin-right: 270px;
+}
+.as{
+    color:#818181 ;
+    text-decoration: line-through ;
+    width: 60px;
+   
+   
+    margin-top: -40px;
+    margin-left: 80px;
+}
+.p4-3{
+    margin-top: -60px;
+    margin-right: -300px;
+}
+/*--------------------------------------------------------------------------------*/
+.p5-1{
+    margin-top: 40px;
+    color: white;
+    margin-right: 950px;
+}
+.p5{
+    height: 900px;
+}
+.p5-2{
+    width: 500px;
+    height: 520px;
+    background:#14141D  ;
+    margin-top: 110px;
+    border-radius: 21px;
+    margin-right: 1050px;
+    font-size: 24px;
+    color: white;
+    transition: 1s;
+}
+.p5-2:hover{
+    background:#22222F ;
+    padding: 15px;
+    transition: 1s;
+}
+.p5-2 h2{
+    margin-top: -6px;
+    margin-right: 150px;
+
+}
+/*---------------------------------------------------------------------------------------*/
+.p5-3{
+    width: 500px;
+    height: 520px;
+    background:#14141D  ;
+   
+    border-radius: 21px;
+   margin-left: 30px;
+   margin-top: -520px;
+    font-size: 24px;
+    color: white;
+    transition: 1s;
+}
+.p5-3:hover{
+    background:#22222F ;
+    padding: 15px;
+    transition: 1s;
+}
+.p5-3 h2{
+    margin-top: -6px;
+    margin-right: 150px;
+
+}
+/*---------------------------------------------------------------------------------------*/
+.p5-4{
+    width: 500px;
+    height: 520px;
+    background:#14141D  ;
+    margin-top: 110px;
+    border-radius: 21px;
+   margin-left: 1100px;
+   margin-top: -520px;
+    font-size: 24px;
+    color: white;
+    transition: 1s;
+}
+.p5-4:hover{
+    background:#22222F ;
+    padding: 15px;
+    transition: 1s;
+}
+.p5-4 h2{
+    margin-top: -6px;
+    margin-right: 150px;
+
+}
+/*---------------------------------------------------------------------------------------*/
+.number{
+    display: none;
+}
+.qw{
+    cursor: pointer;
+}
+.sd{
+    border: 2px solid white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    margin-left: 130px;
+    margin-top: -40px;
+    font-size: 16px;
+}
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    background-color: transparent;
+    position: relative;
+   
+  }
+  
+  .btn::after {
+    content: 'like';
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    font-size: 15px;
+    color: white;
+    opacity: 0;
+    visibility: hidden;
+    transition: .2s linear;
+    top: 115%;
+}
+  
+.icon {
+    width: 30px;
+    height: 30px;
+    transition: .2s linear;
+}
+  
+.icon path {
+    fill: white;
+    transition: .2s linear;
+}
+  
+.btn:hover > .icon {
+    transform: scale(1.2);
+}
+  
+.btn:hover > .icon path {
+    fill: rgb(240, 0, 0);
+  
+}
+  
+.btn:hover::after {
+    visibility: visible;
+    opacity: 1;
+    top: 105%;
+}
+.ppp{
+    margin-top: -7px;
+}
+.p12{
+    height: 300px;
+    margin-top: -150px;
+}
+.zxs{
+    border: 1px solid  #32323D;
+}
+.p12-1{
+    margin-top: 80px;
+    margin-right: 900px;
+}
+.p12-2{
+    color: #C7A17A;
+    margin-top: -100px;
+    margin-right: 620px;
+
+}
+.p12-3{
+    font-size: 20px;
+    color: white;
+    margin-top: -100px;
+    text-decoration: none;
+}
+.p12-3 a {
+    text-decoration: none;
+    color: white;
+}
+.p12-3 a:hover{
+    color: #C7A17A;
+}
+.d{
+    margin-left: 70px;
+}
+.p12-4{
+    margin-left: 700px;
+    font-size: 20px;
+    margin-top: -170px;
+    color: white;
+}
+.dd{
+    margin-left: 60px;
+}
+.p12-4 a {
+    text-decoration: none;
+    color: white;
+}
+.p12-4 a:hover{
+    color: #C7A17A;
+}
